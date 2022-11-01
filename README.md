@@ -1,5 +1,7 @@
 ## Riemann-Hypothesis
 
+- Lectures on Geometrical Anatomy of Theoretical Physics
+  - 🔗 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁: https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic
 - 𝐀𝐛𝐬𝐭𝐫𝐚𝐜𝐭 𝐀𝐥𝐠𝐞𝐛𝐫𝐚
   - 🔗 𝗕𝗼𝗼𝗸: Dan Saracino
   - 🔗 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁: https://www.youtube.com/playlist?list=PLLq_gUfXAnknLXjNSnKKLT4LI1AfTy9PS
